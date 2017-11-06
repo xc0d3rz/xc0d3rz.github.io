@@ -1,2 +1,5 @@
-# xc0d3rz.github.io
-My personal's blog
+#Shujin Wu
+
+##Resources
+
+Themes: clean Blog by Erikyao: https://github.com/erikyao/clean-blog
