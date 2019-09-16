@@ -15,21 +15,21 @@ kramdown:
 # so be sure to set them if your theme uses them.
 #
 # Site settings
-author: Mohammed Ali
-title: Mohammed Ali
+author: Mohammed Ramli
+title: Mohammed Ramli
 header-img: img/home-bg.jpg
 
 # This will be used as your sites meta description as well
-description: "Mohammed Ali's blog"
+description: "Full Stack Developer"
 
 baseurl: ""
 
-# twitter_username: SBootstrap
+twitter_username: 0x0_sd
 github_username:  xc0d3rz
-email:  me@xc0d3rz.io
-copyright_name: Mohammed Ali
+email:  moe@ramli.me
+copyright_name: Mohammed Ramli
 designed_by: Shujin Wu
-# facebook_username:  IronSummitMedia
+facebook_username:  eGMwZDNyeg
 
 tagline: Site Tagline
 
@@ -41,8 +41,7 @@ tagline: Site Tagline
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://xc0d3rz.io
-
+production_url : https://ramli.me
 gems: [jekyll-sitemap, jekyll-paginate, jekyll-feed]
 
 paginate: 5
